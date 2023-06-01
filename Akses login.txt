@@ -1,0 +1,9 @@
+Login:
+
+(admin)
+Uname: admin
+Pw: admin
+
+(pemilik)
+Uname: siddik
+Pw: 123456
